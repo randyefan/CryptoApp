@@ -1,6 +1,8 @@
 # Crypto App
 
-![image1](https://github.com/randyefan/CryptoApp/blob/main/Resources/image1.png) ![image2](https://github.com/randyefan/CryptoApp/blob/main/Resources/image2.png)
+Main page             |  News Page
+:-------------------------:|:-------------------------:
+<img src="https://github.com/randyefan/CryptoApp/blob/main/Resources/image1.png" width="300" height="500">  |  <img src="https://github.com/randyefan/CryptoApp/blob/main/Resources/image2.png" width="300" height="500">
 
 My first app that I built with connection to websocket technology that provide real time communication between server and client. 
 
