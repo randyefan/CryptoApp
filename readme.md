@@ -8,6 +8,8 @@ My first app that I built with connection to websocket technology that provide r
 
 In this case, websocket is used for get real-time ticker data that always update almost every seconds.
 
+Thankyou for RXSwift and RXCocoa that handle observer-observable for real time changes in the app.
+
 I’m using MVVM architecture to reduced complexity in this project and makes the code more structure than using MVC architecture. 
 
 Some third-party library that im using in this project, listed below: 
